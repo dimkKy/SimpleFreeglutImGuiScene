@@ -1,0 +1,5 @@
+/*
+!.gitignore
+!SimpleOpenGLImGuiScene
+SimpleOpenGLImGuiScene/*
+!SimpleOpenGLImGuiScene/SimpleFreeglutImGuiScene.cpp
